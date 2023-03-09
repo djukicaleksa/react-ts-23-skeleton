@@ -1,0 +1,10 @@
+@use 'colours';
+@use 'mixins';
+
+.loginHeader {
+  background-color: colours.$white;
+  width: 100%;
+  color: colours.$primary-light;
+  @include mixins.xy-center();
+  flex-direction: column;
+}

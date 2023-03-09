@@ -44,3 +44,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+# Personal notes
+
+## Src folder structure
+
+- assets > Used for storing static assets, fonts go into font folder, images into image folder, small icons into icons folder
+- components > Simple components that are reused accross multiple pages/modules, page/module specific

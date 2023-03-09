@@ -1,0 +1,10 @@
+.loginForm {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+}
+
+.passwordInput,
+.userInput {
+  margin-bottom: 12px;
+}
